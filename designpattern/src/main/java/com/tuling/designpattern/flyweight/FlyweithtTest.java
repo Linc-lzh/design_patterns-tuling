@@ -3,10 +3,6 @@ package com.tuling.designpattern.flyweight;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author 腾讯课堂-图灵学院  郭嘉
- * @Slogan 致敬大师，致敬未来的你
- */
 public class FlyweithtTest {
     public static void main(String[] args) {
         TreeType treeTypeByName=TreeFactory.getTreeTypeByName( "xxx", "yyyyy" );

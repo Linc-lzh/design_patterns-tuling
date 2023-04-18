@@ -4,10 +4,6 @@ package com.tuling.designpattern.observer;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author 腾讯课堂-图灵学院  郭嘉
- * @Slogan 致敬大师，致敬未来的你
- */
 public class ObserverTest {
     public static void main(String[] args) {
 

@@ -3,10 +3,6 @@ package com.tuling.designpattern.strategy.v3;
 import java.util.Arrays;
 import java.util.Comparator;
 
-/**
- * @author 腾讯课堂-图灵学院  郭嘉
- * @Slogan 致敬大师，致敬未来的你
- */
 public class ComparatorTest {
     public static void main(String[] args) {
         Person[] persons=

@@ -1,9 +1,5 @@
 package com.tuling.designpattern.decorator;
 
-/**
- * @author 腾讯课堂-图灵学院  郭嘉
- * @Slogan 致敬大师，致敬未来的你
- */
 public class DecoratorTest {
     public static void main(String[] args) {
           Component component=  new ConreteDecorator1( new ConreteDecorator2(new ConcreteComponent() ) );

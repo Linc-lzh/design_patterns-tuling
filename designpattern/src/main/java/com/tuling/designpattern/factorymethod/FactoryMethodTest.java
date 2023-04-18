@@ -1,9 +1,5 @@
 package com.tuling.designpattern.factorymethod;
 
-/**
- * @author 腾讯课堂-图灵学院  郭嘉
- * @Slogan 致敬大师，致敬未来的你
- */
 public class FactoryMethodTest {
     public static void main(String[] args) {
         Application application= new ConcreteProductB();
