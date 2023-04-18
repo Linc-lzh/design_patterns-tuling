@@ -3,10 +3,6 @@ package com.tuling.designpattern.singleton.v3;
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * @author 腾讯课堂-图灵学院  郭嘉
- * @Slogan 致敬大师，致敬未来的你
- */
 public class InnerClassSingletonTest {
     public static void main(String[] args) throws NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException, IOException {
         //        InnerClassSingleton instance=InnerClassSingleton.getInstance();
