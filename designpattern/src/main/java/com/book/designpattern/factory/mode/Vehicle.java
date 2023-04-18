@@ -1,4 +1,5 @@
 package com.book.designpattern.factory.mode;
 
-public class Vehicle {
+public abstract class Vehicle {
+    abstract public Vehicle newInstance();
 }
