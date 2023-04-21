@@ -2,9 +2,19 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="glassfish" />
+      <option name="name" value="Glassfish Repository" />
+      <option name="url" value="http://maven.glassfish.org/content/groups/glassfish" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bea.public-snapshots" />
+      <option name="name" value="ARRIS Cloud Azure Nexus Public Snapshots Repository" />
+      <option name="url" value="https://servassure-nexus.eastus2.cloudapp.azure.com/nexus/content/groups/public-snapshots" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -15,6 +25,21 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bea.snapshot" />
+      <option name="name" value="ARRIS Cloud Azure Nexus Snapshots Repository" />
+      <option name="url" value="https://servassure-nexus.eastus2.cloudapp.azure.com/nexus/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bea.public" />
+      <option name="name" value="ARRIS Cloud Azure Nexus Public Repository" />
+      <option name="url" value="https://servassure-nexus.eastus2.cloudapp.azure.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bea.release" />
+      <option name="name" value="ARRIS Cloud Azure Nexus Releases Repository" />
+      <option name="url" value="https://servassure-nexus.eastus2.cloudapp.azure.com/nexus/content/repositories/releases" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="spring" />
